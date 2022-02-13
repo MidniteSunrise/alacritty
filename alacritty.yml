@@ -1,0 +1,36 @@
+schemes:
+  minimal-mistakes: &minimal-mistakes # Minimal-Mistakes colors
+    transparent_background_colors: true
+
+    primary:
+      background: "0x283036"
+      foreground: "0xe5e9f0"
+
+    # Colors the cursor will use if `custom_cursor_colors` is true
+    cursor:
+      text: "0x283036"
+      cursor: "0xe5e9f0"
+
+    # Normal colors
+    normal:
+      black: "0x283036"
+      red: "0xff5959"
+      green: "0x59ff59"
+      yellow: "0xffff59"
+      blue: "0x9059ff"
+      magenta: "0xff59f9"
+      cyan: "0x59fff9"
+      white: "0xe5e9f0"
+
+    # Bright colors
+    bright:
+      black: "0x434c5e"
+      red: "0xffa6a6"
+      green: "0xa6ffa6"
+      yellow: "0xffffa6"
+      blue: "0xc5a6ff"
+      magenta: "0xffa6fc"
+      cyan: "0xa6fffc"
+      white: "0xe5e9f0"
+
+colors: *minimal-mistakes
