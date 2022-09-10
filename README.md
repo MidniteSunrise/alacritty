@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [minimal-mistakes/alacritty](https://minimal-mistakes.xyz/apps/terminals/alacritty).
+All instructions can be found at [minimal-mistakes/alacritty](https://minimalmistakes.org/apps/terminals/alacritty).
 
 ## Team
 
